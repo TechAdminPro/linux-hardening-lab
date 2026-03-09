@@ -44,7 +44,6 @@ linux-hardening-lab/
 ├─ evidencias/
 ├─ comandos/
 ├─ configs/
-└─ scripts/
 ```
 
 ## Resultados del bastionado
